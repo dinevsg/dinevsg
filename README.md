@@ -22,6 +22,17 @@
 <p>
   <a>
       <img width="40" src="https://skillicons.dev/icons?i=py&theme=light" />
+      &nbsp;
+      <img width="40" src="https://skillicons.dev/icons?i=postgres&theme=light" />
+      &nbsp;
+      <img width="40" src="https://skillicons.dev/icons?i=html&theme=light" />
+      &nbsp;
+      <img width="40" src="https://skillicons.dev/icons?i=css&theme=light" />
+      &nbsp;
+      <img width="40" src="https://skillicons.dev/icons?i=docker&theme=light" />
+      &nbsp;
+      <img width="40" src="https://skillicons.dev/icons?i=django&theme=light" />
+    
   </a>
 </p>
 <h1>My stats</h1>
