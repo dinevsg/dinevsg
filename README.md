@@ -15,7 +15,7 @@
     <img  width="25" src="https://cdn-icons-png.flaticon.com/128/9073/9073086.png" />
 </p>
 
-- <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="20"/> Currently learning [Python Advanced & OOP](https://github.com/dinevsg/python_advanced_oop.git) @ SoftUni
+- <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="20"/> Currently learning <strong>Python ORM</strong> & <strong>JS Front-End</strong>
 - <img src="https://cdn-icons-png.flaticon.com/128/2293/2293843.png" width="20"/> Graduated Industrial Management @ Technical University of Sofia
 - <img src="https://cdn-icons-png.flaticon.com/128/4065/4065822.png" width="20"/> In my free time I... wait, I don't have free time
 <h1>My skills</h1>
