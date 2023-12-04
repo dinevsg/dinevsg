@@ -1,18 +1,15 @@
 <h1>Aloha!</h1>
-<p>
-  I'm <b>Stanislav Dinev</b>
+<p>I'm <b>Stanislav Dinev</b></p>
 <p align="left">
+  <a href="https://sdinev.com">
+  <img width="30" src="https://github.com/dinevsg/dinevsg/assets/138312576/a88c4053-814e-476e-8f8b-356d457080aa"></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/stanislav-dinev-4896a0267/">
-    <img width="25" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/sgdinev">
-    <img width="25" src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" />
-  </a>
-  &nbsp;
-  <a>
+  <img width="30" src="https://github.com/dinevsg/dinevsg/assets/138312576/be0f7d94-a46a-4860-bcde-8d4e547dc4e9" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:dinevsg@gmail.com">
-    <img  width="25" src="https://cdn-icons-png.flaticon.com/128/9073/9073086.png" />
+  <img  width="30" src="https://github.com/dinevsg/dinevsg/assets/138312576/950d4616-4a9f-4b75-84b2-48081b33c903"/></a>
+  &nbsp;&nbsp;
 </p>
 
 - <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="20"/> Currently learning <strong>Python ORM</strong> & <strong>JS Front-End</strong>
