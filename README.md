@@ -11,7 +11,7 @@
   </a>
   &nbsp;
   <a>
-  <a href="mailto:dinevs@proton.me">
+  <a href="mailto:dinevsg@gmail.com">
     <img  width="25" src="https://cdn-icons-png.flaticon.com/128/9073/9073086.png" />
 </p>
 
