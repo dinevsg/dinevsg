@@ -35,7 +35,7 @@
 <h1>My stats</h1>
 <p>
   <a href="https://git.io/streak-stats">
-    <img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=dinevsg&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=EB5454&sideLabels=EB5454&fire=EB5454&currStreakNum=EB5454" />
+    <img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=dinevsg&theme=github-dark-blue&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D&currStreakLabel=EB5454&sideLabels=EB5454&fire=EB5454&currStreakNum=EB5454" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
