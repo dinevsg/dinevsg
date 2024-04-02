@@ -23,6 +23,8 @@
       &nbsp;
       <img width="40" src="https://skillicons.dev/icons?i=js&theme=dark" />
       &nbsp;
+      <img width="40" src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" />
+      &nbsp;
       <img width="40" src="https://skillicons.dev/icons?i=html&theme=light" />
       &nbsp;
       <img width="40" src="https://skillicons.dev/icons?i=css&theme=light" />
